@@ -7,11 +7,24 @@
     - Binder（重点，深入理解）[写给 Android 应用工程师的 Binder 原理剖析](https://zhuanlan.zhihu.com/p/35519585)
     - AIDL
 #### 架构
+MVC
+MVP
+Clean
+**MVVM**
+
 #### 设计模式
+[《设计模式之禅》](https://gitee.com/robinxdroid/Book/blob/master/Study/设计模式之禅（第2版）.pdf)
+
 #### 优化方向
+
 #### 热修复
+
 #### 三方库源码
+
 #### Jetpack
+##### ViewModel
+##### Lifecycle
+
 
 # Java
 #### GC
